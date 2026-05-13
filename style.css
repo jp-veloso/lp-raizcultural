@@ -667,6 +667,14 @@ h1, h2, h3, h4 {
   margin-bottom: 32px;
 }
 
+.footer-address {
+  font-style: normal;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.8;
+  margin-bottom: 28px;
+}
+
 .footer-info {
   display: flex;
   flex-direction: column;
